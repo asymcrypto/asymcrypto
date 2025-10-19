@@ -1,5 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asym!;" />
  <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asym!;" />
 </h1>
@@ -61,12 +59,37 @@
 </a>
 
 </div>
-## 🏗️ **Active Projects & Live Demos**
+🏗️ Active Projects & Live Active
 
 ### **1. 🚀 GitForge - Core Platform**
-> **GitHub-native DAO infrastructure turning organizations into self-funding communities**
+> **GitHub-native DAO infrastructure turning organizations into self-funding communities
+> 
+🔗 Links: 
+<a href="https://github.com/asymcrypto/gitforge-template">
+<img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github" />
+</a>
+<a href="https://aliraza556.github.io/gitforge-template/docs/index.html">
+<img src="https://img.shields.io/badge/Live_Demo-00FF00?style=for-the-badge" />
+</a>
+<a href="https://discord.gg/4GNSpWUyP">
+<img src="https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord" />
+</aDAO
+
+🎯 GitForge Showcase
+
+Live demonstration building OSS tools using our own bounty system
 
 ```markdown
+📍 Status: 🟡 ACTIVE DEVELOPMENT  
+🎯 Purpose: Dogfooding & Community Growth
+💰 Model: 4% Equity Distribution
+🏆 Achievement: Real-time transparency
+```
+
+🔗 Links:
+<a href="https://github.com/asymcrypto/gitforge-showcase">
+<img src="https://img.shields.io/badge/Showcase_Repo-000000?style=for-the-badge&logo=github" />
+</a>markdowndown
 📍 Status: 🟢 PRODUCTION READY
 🎯 Purpose: OSS Sustainability & DAO Tooling
 💰 Model: Equity Bounties + Platform Fees
