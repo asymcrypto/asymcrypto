@@ -1,5 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asym!;" />
+ <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asym!;" />
 </h1>
 
 <div align="center">
@@ -9,16 +11,67 @@
 <h2 align="center">🚀 Building the Future of Open Source Collaboration</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-GitForge-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Open_Source-Advocate-green?style=for-the-badge&logo=opensourceinitiative" />
-  <img src="https://img.shields.io/badge/Web3-Builder-purple?style=for-the-badge&logo=web3.js" />
-  <img src="https://img.shields.io/badge/DAO-Architect-red?style=for-the-badge&logo=ethereum" />
+  <!-- CLICKABLE BADGES THAT GO TO YOUR LINKS -->
+  <a href="https://x.com/Asym_Alwali">
+    <img src="https://img.shields.io/badge/Founder-GitForge-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/asymcrypto/gitforge-template">
+    <img src="https://img.shields.io/badge/Open_Source-Advocate-green?style=for-the-badge&logo=opensourceinitiative" />
+  </a>
+  <a href="https://x.com/GitForgeDAO">
+    <img src="https://img.shields.io/badge/Web3-Builder-purple?style=for-the-badge&logo=web3.js" />
+  </a>
+  <a href="https://discord.gg/4GNSpWUyP">
+    <img src="https://img.shields.io/badge/DAO-Architect-red?style=for-the-badge&logo=ethereum" />
+  </a>
 </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+### **🚀 Primary Platforms**
+<a href="https://github.com/asymcrypto/gitforge-template">
+  <img src="https://img.shields.io/badge/🚀_GitForge_Platform-000000?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/asymcrypto/gitforge-showcase">
+  <img src="https://img.shields.io/badge/🎯_GitForge_Showcase-000000?style=for-the-badge&logo=github" />
+</a>
+
+### **💬 Community & Social**
+<a href="https://discord.gg/4GNSpWUyP">
+  <img src="https://img.shields.io/badge/💬_Discord_Community-5865F2?style=for-the-badge&logo=discord" />
+</a>
+<a href="https://x.com/Asym_Alwali">
+  <img src="https://img.shields.io/badge/🐦_Personal_Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
+<a href="https://x.com/GitForgeDAO">
+  <img src="https://img.shields.io/badge/🚀_GitForge_Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
+
+### **📚 Resources & Links**
+<a href="https://linktr.ee/GitForge">
+  <img src="https://img.shields.io/badge/🔗_All_Links-39E09B?style=for-the-badge" />
+</a>
+<a href="https://aliraza556.github.io/gitforge-template/docs/index.html">
+  <img src="https://img.shields.io/badge/🌐_Live_Website-00FF00?style=for-the-badge" />
+</a>
+
+</div>
+## 🏗️ **Active Projects & Live Demos**
+
+### **1. 🚀 GitForge - Core Platform**
+> **GitHub-native DAO infrastructure turning organizations into self-funding communities**
+
+```markdown
+📍 Status: 🟢 PRODUCTION READY
+🎯 Purpose: OSS Sustainability & DAO Tooling
+💰 Model: Equity Bounties + Platform Fees
+👥 Team: Community-Driven
 
 ## 🌟 **About Me**
 
