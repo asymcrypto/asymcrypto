@@ -99,12 +99,7 @@ Live demonstration building OSS tools using our own bounty system
 
 ```yaml
 name: Asym
-located_in: Digital Nomad 🌐 
-current_job: Building GitForge
-education: "Computer Science", "online Learning"
-main_tech: "GitHub Ecosystem", "DAO Infrastructure", "Web3 Tooling"
-hobbies: "Building in Public", "OSS Advocacy", "Community Growth"
-currently_learning: "Scalable System Design", "Token Economics"
+
 fun_fact: "Shipped production DAO infrastructure in 48 hours"
 <!--
 **asymcrypto/asymcrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
