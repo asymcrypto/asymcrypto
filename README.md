@@ -99,7 +99,7 @@ Live demonstration building OSS tools using our own bounty system
 
 ```yaml
 name: Asym
-located_in: Digital Nomad 
+located_in: Digital Nomad 🌐 
 current_job: Building GitForge
 education: "Computer Science", "online Learning"
 main_tech: "GitHub Ecosystem", "DAO Infrastructure", "Web3 Tooling"
